@@ -17,6 +17,6 @@
   @          r     f       +
   =          :     f       f
   ?       >  ^     +       +
-  >n00nn; r        f       f
+  >n00nn~;r        f       f
   >:r:r@)?^> ^     +       f
                    >f+f+2+o^
