@@ -1,21 +1,17 @@
- >      >         v                  
-        ^<>v              >v         
-          1               6          
-                                     
-                                     
-       v2 x   <   x   >   x     5v   
-                                     
-                                     
-          3               4          
-          >v              >v         
-         ^        <                  
- ^v?=2l<   <               <     <   
-  :                                  
-  r         >@*2=?vnn;      >9+off+v
-  :         r     ~         +  ;   f
-  r         :     ~         f  o   +
-  @         r     f         +  o   f
-  =         :     f         f  :   +
-  ?       > ^     +         +  +   f
-  >n00nn~;r       f         f  d   +
-  >:r:r@)?^>^     >+f+f+2+of^  ^   <
+>      >    v     >v  
+       ^<>v   >v  f+  
+         1    6   +f  
+      v2 x <x>x 5vf+  
+         3    4   +2  
+         >v   >v  f+  
+        ^   <     fo  
+^v?=2l<   <    < <~f  
+ :                ~>fv
+ r         >@*2= ?^v +
+ :         r    ;nn< f
+ r         :vo+9+f+  <
+ @         r>ff+f+fv  
+ =         :v:+d+f+<  
+ ?       > ^>oo;      
+ >n00nn~;r            
+ >:r:r@)?^>^          
